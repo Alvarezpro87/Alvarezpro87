@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Alexandre</h1>
 <h3 align="center">Sou apaixonado por tecnologia com foco em Backend. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, após ter uma formação inicial em Publicidade e Propaganda. Tenho experiência profissional em TI, Certificado AZ-900 da Azure, contêinerização, cloud computing, e desenvolvimento de software utilizando Java e Spring Boot.</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto [Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao)
+- 🔭 Atualmente estou trabalhando no projeto  [Santander Bootcamp 2024](https://github.com/Alvarezpro87/Santander-Bootcamp2024) e [Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao)
 
 - 🌱 Estou sempre estudando **Java - Spring Boot - Cloud - Linux - Banco de Dados - Tecnologias**
 
