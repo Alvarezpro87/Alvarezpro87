@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto  [Mario Kart Utilizando Node](https://github.com/Alvarezpro87/MarioKartNode) e [Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao)
 
-- 🌱 Estou sempre estudando **Java - Spring Boot - Cloud - Linux - Banco de Dados - Tecnologias**
+- 🌱 Estou sempre estudando **Java - Spring Boot - Cloud - Linux - Banco de Dados - Node - React - JavaScript**
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados no [https://github.com/Alvarezpro87](https://github.com/Alvarezpro87)
 
