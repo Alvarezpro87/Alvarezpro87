@@ -11,7 +11,7 @@
 
 <h3 align="center">Vamos nos conectar:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/alexandre-alvarez-b41aa2246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-alvarez-b41aa2246" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/alexandre-alvarez-b41aa2246](https://www.linkedin.com/in/alvarez87/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-alvarez-b41aa2246" height="30" width="40" /></a>
 <a href="https://instagram.com/xandaum87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xandaum87" height="30" width="40" /></a>
 </p>
 
