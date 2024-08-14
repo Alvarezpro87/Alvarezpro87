@@ -1,9 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Alexandre</h1>
 <h3 align="center">Sou apaixonado por tecnologia com foco em Backend. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, após ter uma formação inicial em Publicidade e Propaganda. Tenho experiência profissional em TI, Certificado AZ-900 da Azure, contêinerização, cloud computing, e desenvolvimento de software utilizando Java, Spring Boot, Node, React e JavaScript.</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto  [Personal Trainer Software](https://github.com/Alvarezpro87/Personal-Trainer-Software.git) e [Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao)
-
-- 🌱 Estou sempre estudando **Java - Spring Boot - Cloud - Linux - Banco de Dados - Node - React - JavaScript**
+- 🔭 Atualmente estou trabalhando no projeto  [Personal Trainer Software](https://github.com/Alvarezpro87/Personal-Trainer-Software.git), [Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao) e [Desafio Sistema de estacionamento]([Projeto Previdência Privada](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao))
+- 🌱 Estou sempre estudando **Java - Spring Boot - C# - .Net  - React - Typescript**
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados no [https://github.com/Alvarezpro87](https://github.com/Alvarezpro87)
 
@@ -18,6 +17,8 @@
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
