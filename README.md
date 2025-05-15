@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Alexandre</h1>
 <h3 align="center">Sou apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas, após ter uma formação inicial em Publicidade e Propaganda. Tenho experiência profissional em TI, Certificado AZ-900 da Azure, contêinerização, cloud computing, e desenvolvimento de software utilizando Java, Spring Boot, Node, React e JavaScript.</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto  [Personal Trainer Software](https://github.com/Alvarezpro87/Personal-Trainer-Software.git) e [DockerGen](https://github.com/Alvarezpro87/DockerGen.git) 
-- 🌱 Estou sempre estudando **Java - Spring Boot - C# - .Net  - React - Typescript**
+- 🔭 Atualmente estou trabalhando no projeto Personal Manager, um sistema de gestão para personal trainers — pensado especialmente para ajudar os profissionais no controle das aulas, metas e finanças. 
+- 🌱 Estou sempre estudando **Java - Spring Boot -Node - Next  - React - Typescript**
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados no [https://github.com/Alvarezpro87](https://github.com/Alvarezpro87)
 
